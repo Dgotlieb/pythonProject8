@@ -22,5 +22,7 @@ my_list.append(x)
 my_list.append(y)
 my_list.append(z)
 
+
+
 for item in my_list:
     print(item)
